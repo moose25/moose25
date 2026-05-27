@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=540&height=55&lines=python+%2B+aws%2C+mostly;branching+out+for+side+projects;i+just+build+stuff+i+wish+existed" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=540&height=55&lines=Python+%2B+AWS;Exploring+other+languages;Building+side+projects" alt="typing banner" />
 
 <img src="https://komarev.com/ghpvc/?username=moose25&color=7aa2f7&style=flat&label=views" alt="profile views" />
 
@@ -13,13 +13,12 @@
 
 ---
 
-### hey, I'm Chris 👋
+### Hey, I'm Chris 👋
 
-I mostly write **Python** and live in **AWS** — scripting and automation, the boring-but-satisfying kind that makes tedious stuff go away. When a side project sounds fun I'll grab whatever language fits, so the repos here are a bit of a grab bag.
+I mostly write **Python** and work in **AWS** (scripting, automation). When a side project sounds interesting I'll pick up whatever language fits, so my repos are a bit of a grab bag.
 
-- 🐍 most days: **Python + AWS**
-- 🧪 side projects: branching into other languages as I go (TypeScript, Kotlin, whatever the thing needs)
-- 🛠️ half my repos started as "eh, I'll just build it myself"
+- 🐍 Day to day: **Python + AWS**
+- 🧪 Side projects: exploring other languages (TypeScript, Kotlin, ...)
 
 <div align="center">
 
@@ -30,10 +29,10 @@ I mostly write **Python** and live in **AWS** — scripting and automation, the 
 
 ---
 
-### stuff I've built
+### Stuff I've built
 
-- **[Rayfall](https://github.com/moose25/Rayfall)** — <!-- EDIT-ME: one line on what Rayfall is -->a side project I'm tinkering with.
-- **[world-cup-2026-readme-widget](https://github.com/moose25/world-cup-2026-readme-widget)** — embeddable World Cup 2026 panels you can drop into any README. Wrote it in TypeScript, runs on a Vercel function. The live ones are right here:
+- **[Rayfall](https://github.com/moose25/Rayfall)** — maps your ham radio contacts from a QRZ logbook onto an interactive map. Python + Leaflet, live at [rayfall.me](https://rayfall.me).
+- **[world-cup-2026-readme-widget](https://github.com/moose25/world-cup-2026-readme-widget)** — embeddable World Cup 2026 panels for any README, built in TypeScript on a Vercel function. Live ones below:
 
 <p align="center">
   <img height="150" src="https://wc26-widget.vercel.app/countdown?tz=America/New_York" alt="World Cup 2026 countdown" />
@@ -41,26 +40,23 @@ I mostly write **Python** and live in **AWS** — scripting and automation, the 
   <img height="150" src="https://wc26-widget.vercel.app/match?tz=America/New_York" alt="next / live match" />
 </p>
 
-<p align="center"><i>those update on their own, straight from the widget — <a href="https://wc26-widget.vercel.app">try it</a></i></p>
+<p align="center"><i>Live, straight from the widget — <a href="https://wc26-widget.vercel.app">try it</a></i></p>
 
-<!-- REPO PINS — re-enable after self-hosting github-readme-stats (swap YOUR-INSTANCE):
 <div align="center">
-<a href="https://github.com/moose25/Rayfall"><img src="https://YOUR-INSTANCE/api/pin/?username=moose25&repo=Rayfall&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/moose25/world-cup-2026-readme-widget"><img src="https://YOUR-INSTANCE/api/pin/?username=moose25&repo=world-cup-2026-readme-widget&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/moose25/Rayfall"><img src="https://github-readme-stats-three-eta-38.vercel.app/api/pin/?username=moose25&repo=Rayfall&theme=tokyonight&hide_border=true" alt="Rayfall" /></a>
+<a href="https://github.com/moose25/world-cup-2026-readme-widget"><img src="https://github-readme-stats-three-eta-38.vercel.app/api/pin/?username=moose25&repo=world-cup-2026-readme-widget&theme=tokyonight&hide_border=true" alt="world-cup-2026-readme-widget" /></a>
 </div>
--->
 
 ---
 
-### the usual github stats
+### GitHub stats
 
 <div align="center">
 
-<!-- STATS + TOP LANGUAGES — added once github-readme-stats is self-hosted (swap YOUR-INSTANCE):
-<img height="165" src="https://YOUR-INSTANCE/api?username=moose25&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" />
-<img height="165" src="https://YOUR-INSTANCE/api/top-langs/?username=moose25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+<img height="165" src="https://github-readme-stats-three-eta-38.vercel.app/api?username=moose25&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" />
+<img height="165" src="https://github-readme-stats-three-eta-38.vercel.app/api/top-langs/?username=moose25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+
 <br/>
--->
 
 <img src="https://streak-stats.demolab.com?user=moose25&theme=tokyonight&hide_border=true" alt="contribution streak" />
 
