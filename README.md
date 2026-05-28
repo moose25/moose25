@@ -53,7 +53,7 @@ I mostly write **Python** and work in **AWS** (scripting, automation). When a si
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-three-eta-38.vercel.app/api?username=moose25&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" />
+<img height="165" src="https://github-readme-stats-three-eta-38.vercel.app/api?username=moose25&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="github stats" />
 <img height="165" src="https://github-readme-stats-three-eta-38.vercel.app/api/top-langs/?username=moose25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 
 <br/>
